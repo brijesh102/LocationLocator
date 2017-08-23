@@ -1,0 +1,15 @@
+﻿html, body {
+  font-family: 'Lato', sans-serif;
+}ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.listbox {
+    padding: 0 24px;
+      line-height: 60px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      cursor: pointer;
+}
